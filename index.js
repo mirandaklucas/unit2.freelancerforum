@@ -32,6 +32,7 @@ console.log(priceColumn)
 priceColumn.innerHTML = "Starting Price"
 
 
+
 // actual lists
 /* 
 let freelancerList = document.createElement('ul')
